@@ -16,7 +16,7 @@ This assignment demonstrates how to build a simple agentic workflow using LLM + 
 # 🧰 Tools Used
 1. internet_search(query)
 A mock search tool that returns 3 URLs.
-(Used because the assignment focuses on agent logic, not real search APIs.)
+
 
 2. fetch_url(url)
 Fetches the raw text content from a given URL.
