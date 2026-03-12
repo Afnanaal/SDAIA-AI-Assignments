@@ -10,7 +10,6 @@ Synthesizes the information from all three sources.
 
 Answers the user’s question based only on the fetched content.
 
-(Optional) Refines the user’s query before searching.
 
 This assignment demonstrates how to build a simple agentic workflow using LLM + Tools.
 
